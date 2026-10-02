@@ -2,7 +2,7 @@
 
 Code and raw results for the paper
 
-> Z. Ren, Y. Bao. *SEW-GSP: structure-aware evidence weighting and scalable geodesic neighborhoods for clustering-oriented dataset optimization.* Submitted to *Applied Intelligence*, 2026.
+> Z. Ren, Y. Bao. *SEW-GSP: structure-aware evidence weighting and scalable geodesic neighborhoods for clustering-oriented dataset optimization. Manuscript under review, 2026.
 
 SEW-GSP is a preprocessing step for clustering. It moves boundary objects toward the cores of their clusters before any clustering algorithm (K-means, agglomerative clustering, DPC, ...) is run. It has three parts:
 
